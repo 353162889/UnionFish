@@ -1,0 +1,3 @@
+LuaLanguageEvent = {}
+
+LuaLanguageEvent.LanguageUpdate = "LanguageUpdate"
